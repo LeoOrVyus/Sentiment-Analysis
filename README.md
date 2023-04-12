@@ -17,5 +17,4 @@ Licencia
 Este proyecto está bajo la licencia MIT. Consultar el archivo LICENSE para más información.
 
 
-
-
+Nota* Es importante exportar su propia base mediante web scraping, debido a que borraron las bases anterior y se perdio acceso a las mismas
